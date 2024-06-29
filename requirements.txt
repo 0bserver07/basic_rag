@@ -1,0 +1,5 @@
+PyPDF2==1.26.0  # or PyPDF4, depending on your usage
+langchain==0.2.6  # Specify the version you are working with
+chromadb==0.5.3  # Specify the version, if available
+pytest==6.2.5
+boto3==1.24.1
